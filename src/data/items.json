@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 199.00,
+    "imgUrl": "/images/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199.00,
+    "imgUrl": "/images/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 5.00,
+    "imgUrl": "/images/banana.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 14000.00,
+    "imgUrl": "/images/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Shoes",
+    "price": 850.00,
+    "imgUrl": "/images/shoes.jpg"
+  },
+  {
+    "id": 6,
+    "name": "T-Shirt",
+    "price": 450.00,
+    "imgUrl": "/images/tshirt.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Vase",
+    "price": 900.00,
+    "imgUrl": "/images/vase.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Camera",
+    "price": 24000.00,
+    "imgUrl": "/images/camera.jpg"
+  }
+]
